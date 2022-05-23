@@ -1,6 +1,6 @@
-# tutorial-template
+# Reading a `.txt` File
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ProjectPythiaTutorials/tutorial-template/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ProjectPythiaTutorials/Reading_txt_File_2022_05_26/HEAD)
 
 The Project Pythia Tutorials organization is designed to be a single place to store all content for Project Pythia's Python Tutorial Seminar Series. Each tutorial seminar will have its own repository within this organization to house tutorial content (notebooks, data, and markdown).
 
